@@ -23,3 +23,4 @@ echo $DATA['CID']; echo "<br>";
 echo $DATA['FNAME']; echo "<br>";
 echo $DATA['LNAME']; echo "<br>";
 echo $DATA['auto_id']; echo "<br>";
+

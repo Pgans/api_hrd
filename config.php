@@ -1,10 +1,10 @@
 <?php
 //$Setup_Server = 'localhost';
-$Setup_Server = '192.168.200.7';
+$Setup_Server = '192.168.200.2';
 $Setup_User = 'm30';
 $Setup_Pwd = '1234';
 
-$Setup_Database = 'mbase_data1';
+$Setup_Database = 'mbase_data';
 
 mysql_connect($Setup_Server,$Setup_User,$Setup_Pwd);
 
